@@ -4,4 +4,9 @@ b1-text
 b1-text
 b2-tesxt
 b2-text
+<<<<<<< HEAD
  added one sentence after branch 1 commit
+=======
+ branch1
+ btanch 1 second commit
+>>>>>>> branch1
